@@ -1,0 +1,12 @@
+C:\Users\wnobre\source\study\Aula1\bin\Release\netcoreapp3.1\Console.exe
+C:\Users\wnobre\source\study\Aula1\bin\Release\netcoreapp3.1\Console.deps.json
+C:\Users\wnobre\source\study\Aula1\bin\Release\netcoreapp3.1\Console.runtimeconfig.json
+C:\Users\wnobre\source\study\Aula1\bin\Release\netcoreapp3.1\Console.runtimeconfig.dev.json
+C:\Users\wnobre\source\study\Aula1\bin\Release\netcoreapp3.1\Console.dll
+C:\Users\wnobre\source\study\Aula1\bin\Release\netcoreapp3.1\Console.pdb
+C:\Users\wnobre\source\study\Aula1\obj\Release\netcoreapp3.1\Console.AssemblyInfoInputs.cache
+C:\Users\wnobre\source\study\Aula1\obj\Release\netcoreapp3.1\Console.AssemblyInfo.cs
+C:\Users\wnobre\source\study\Aula1\obj\Release\netcoreapp3.1\Console.csproj.CoreCompileInputs.cache
+C:\Users\wnobre\source\study\Aula1\obj\Release\netcoreapp3.1\Console.dll
+C:\Users\wnobre\source\study\Aula1\obj\Release\netcoreapp3.1\Console.pdb
+C:\Users\wnobre\source\study\Aula1\obj\Release\netcoreapp3.1\Console.genruntimeconfig.cache

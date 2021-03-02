@@ -1,0 +1,16 @@
+C:\Users\wnobre\source\study\Aula1\bin\Release\netcoreapp3.1\ConsoleProject.exe
+C:\Users\wnobre\source\study\Aula1\bin\Release\netcoreapp3.1\ConsoleProject.deps.json
+C:\Users\wnobre\source\study\Aula1\bin\Release\netcoreapp3.1\ConsoleProject.runtimeconfig.json
+C:\Users\wnobre\source\study\Aula1\bin\Release\netcoreapp3.1\ConsoleProject.runtimeconfig.dev.json
+C:\Users\wnobre\source\study\Aula1\bin\Release\netcoreapp3.1\ConsoleProject.dll
+C:\Users\wnobre\source\study\Aula1\bin\Release\netcoreapp3.1\ConsoleProject.pdb
+C:\Users\wnobre\source\study\Aula1\bin\Release\netcoreapp3.1\Library.dll
+C:\Users\wnobre\source\study\Aula1\bin\Release\netcoreapp3.1\Library.pdb
+C:\Users\wnobre\source\study\Aula1\obj\Release\netcoreapp3.1\ConsoleProject.csprojAssemblyReference.cache
+C:\Users\wnobre\source\study\Aula1\obj\Release\netcoreapp3.1\ConsoleProject.AssemblyInfoInputs.cache
+C:\Users\wnobre\source\study\Aula1\obj\Release\netcoreapp3.1\ConsoleProject.AssemblyInfo.cs
+C:\Users\wnobre\source\study\Aula1\obj\Release\netcoreapp3.1\ConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\wnobre\source\study\Aula1\obj\Release\netcoreapp3.1\ConsoleProject.csproj.CopyComplete
+C:\Users\wnobre\source\study\Aula1\obj\Release\netcoreapp3.1\ConsoleProject.dll
+C:\Users\wnobre\source\study\Aula1\obj\Release\netcoreapp3.1\ConsoleProject.pdb
+C:\Users\wnobre\source\study\Aula1\obj\Release\netcoreapp3.1\ConsoleProject.genruntimeconfig.cache
